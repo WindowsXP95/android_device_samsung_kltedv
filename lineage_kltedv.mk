@@ -20,5 +20,5 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 $(call inherit-product, device/samsung/kltedv/full_kltedv.mk)
 
-PRODUCT_DEVICE := kltedv
+PRODUCT_DEVICE := Galaxy S5
 PRODUCT_NAME := lineage_kltedv
